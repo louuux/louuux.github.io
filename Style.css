@@ -1,0 +1,95 @@
+header {
+    background-image: url(Strandneu.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 5em;
+    text-align: center;
+    max-height: 200px;
+}
+
+header h1 {
+    font-family: "Shippori Mincho","Roboto Slab", serif;
+    font-size: 40px;
+    color: #555;
+}
+
+.navigation a {
+	color: black;
+	text-decoration: none;
+}
+
+.navigation a:hover {
+    color:lavender;
+}
+
+.navigation li {
+	display: inline;
+	padding: 5px 40px;
+    font-size: 20px;
+}
+
+h2 {
+    padding-top: 1em;
+    margin-top: 1em;
+    color: lavender;
+    font-family: "Shippori Mincho", serif;
+}
+
+main {
+	margin: 0 auto;
+	max-width: 50em;
+	padding: 4em 1em;
+    font-size: 18px;
+    font-family: "Quicksand","Nunito", sans-serif;
+    color: #555;
+    line-height: 1.5;
+        
+}
+main a {
+    color:#555
+}
+main a:hover {
+    color: lavender;
+}
+.table {
+     text-align: center;
+}
+.paragraph a {
+    text-decoration: none;
+    color: #555;
+}
+
+img {
+     border: 1px solid grey;
+}
+
+footer {
+    background-color: lavender;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid aliceblue;
+}
+
+.footer li {
+    display: inline;
+	padding:  40px;
+    font-size: 15px;
+    font-family: "Quicksand","Nunito", sans-serif;
+        
+} 
+.footer a {
+    color: #555;
+	text-decoration: none;
+    background: aliceblue; 
+    padding: 10px;
+    color: black;
+    margin:10px;
+   
+
+}
+footer a:hover {
+    color: lavender;
+}
+ 
+
+
